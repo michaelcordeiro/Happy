@@ -1,7 +1,8 @@
-# Happy
-Criado durante a NLW-3
+# Welcome to Happy
+O Happy é um projeto para facilitar visitas a casas de acolhimento próximos a você! Este é um projeto desenvolvido durante a NLW, realizada pela @Rocketseat.
 
-Consiste em uma aplicação web para conectar pessoas que tenham interesse em visitar crianças em orfanatos.
+## Demonstration
+<img src="./public/images/demo.PNG" alt="exemplo"> 
 
 ## Techs 
 
@@ -9,4 +10,4 @@ Consiste em uma aplicação web para conectar pessoas que tenham interesse em vi
 * [ ] CSS
 * [ ] MYSQL
 * [ ] NODE
-* [ ] HANDREBARS
+* [ ] HANDLEBARS
